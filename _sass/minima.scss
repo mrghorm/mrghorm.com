@@ -17,18 +17,20 @@ $background-color: #34363a !default;
 // Link colors
 // $brand-color:      #5599f1 !default;
 $brand-color:      #388BF5 !default;
-$brand-visited-color: darken(desaturate($brand-color, 60%), 10%);
+$brand-visited-color: lighten(desaturate($brand-color, 40%), 5%);
 
+// Standard grey colors
 $grey-color:       #A1A1A1 !default;
 $grey-color-light: lighten($grey-color, 25%) !default;
 $grey-color-dark:  darken($grey-color, 40%) !default;
 
-
+// Header Colors
 $header-footer-line-color: $grey-color !default;
 $header-text-color: lighten($text-color, 25%) !default;
 
 $table-text-align: left !default;
 
+////////   CONTENT WIDTH AND DYNAMIC WIDTH    ////////     
 // Width of the content area
 $content-width:    800px !default;
 
