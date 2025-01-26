@@ -1,30 +1,31 @@
 @charset "utf-8";
 
-// Define defaults for each variable.
-
+////////   BASE TEXT SETTINGS    ////////     
 $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$base-font-size:   16px !default;
+$base-font-size:   18px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
-$base-line-height: 1.5 !default;
 
-$spacing-unit:     30px !default;
+// Line heights
+$base-line-height: 1.75 !default;
+$spacing-unit:     50px !default;
 
-// $text-color:       #111 !default;
-$text-color:       #cccccc !default;
-// $background-color: #fdfdfd !default;
+// Text colors
+$text-color:       #dddddd !default;
 $background-color: #34363a !default;
-// $brand-color:      #2a7ae2 !default;
-$brand-color:      #5599f1 !default;
 
-//$grey-color:       #828282 !default;
+// Link colors
+// $brand-color:      #5599f1 !default;
+$brand-color:      #388BF5 !default;
+$brand-visited-color: darken(desaturate($brand-color, 60%), 10%);
+
 $grey-color:       #A1A1A1 !default;
-//$grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-light: lighten($grey-color, 25%) !default;
-//$grey-color-dark:  darken($grey-color, 25%) !default;
 $grey-color-dark:  darken($grey-color, 40%) !default;
 
+
 $header-footer-line-color: $grey-color !default;
+$header-text-color: lighten($text-color, 25%) !default;
 
 $table-text-align: left !default;
 

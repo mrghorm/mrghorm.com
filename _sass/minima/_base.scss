@@ -95,6 +95,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
+  color: $header-text-color;
 }
 
 
@@ -107,7 +108,8 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    // color: darken($brand-color, 15%);
+    color: $brand-visited-color;
   }
 
   &:hover {
