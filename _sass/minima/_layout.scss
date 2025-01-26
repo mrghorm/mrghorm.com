@@ -3,7 +3,8 @@
  */
 .site-header {
   border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  // border-bottom: 1px solid $grey-color-light;
+  border-bottom: 1px solid $header-footer-line-color;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -52,7 +53,8 @@
     top: 9px;
     right: $spacing-unit / 2;
     background-color: $background-color;
-    border: 1px solid $grey-color-light;
+    // background-color: #ffffff;
+    // border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
 
@@ -75,7 +77,8 @@
       text-align: center;
 
       > svg {
-        fill: $grey-color-dark;
+        // fill: $grey-color-dark;
+        fill: $text-color;
       }
     }
 
@@ -107,7 +110,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid $header-footer-line-color;
   padding: $spacing-unit 0;
 }
 
