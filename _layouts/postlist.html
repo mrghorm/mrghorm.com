@@ -21,9 +21,14 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
+        <p>
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </p>
+        <a href="{{ post.url | relative_url }}">>> Read more</a>
+        <br><br>
+        <hr>
       </li>
       {%- endfor -%}
     </ul>

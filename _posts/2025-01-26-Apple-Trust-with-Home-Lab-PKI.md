@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Apple Cert Requirements for Homelab PKI 
+title: Apple Cert Requirements for Homelab PKI
+excerpt_separator: <!--more-->
 ---
 
 After recently setting up a Jellyfin server with HTTPS, my usual devices (Windows & Linux) were happy connecting, but my Apple devices would reject the HTTPS, and often wouldn't give a specific error.  I came to find that Apple devices have requirements for PKI trust that are a little more strict than standard.
 
 This is a high-level overview of Apple's requirements, and what it takes to coerce Apple devices into trusting your homelab's CA server and issued certs.
 
+<!--more-->
 
 # Summary of Apple's rules for certificates
 

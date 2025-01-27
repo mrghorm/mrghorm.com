@@ -35,6 +35,7 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+show_excerpts: true
 
 # Settings recommended by GitHub.com setup guide for GitHub Pages with Jekyll
 # From https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
