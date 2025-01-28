@@ -37,7 +37,8 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: $spacing-unit / 2;
+  //margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit;
 }
 
 
@@ -97,12 +98,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
   color: $header-text-color;
 }
-
-// Big headers - could use a little extra space
-h1, h2, h3 {
-  margin-top: 10px;
-}
-
 
 
 /**
