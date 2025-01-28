@@ -1,31 +1,16 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# Build using `bundle exec jekyll serve --drafts` (builds with posts in _drafts)
+# Finished contents are in _site
+# Settings recommended by GitHub.com setup guide for GitHub Pages with Jekyll
+# From https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 
 title: MrGhorm
 author: Matt Ghormley
 email: matt@mrghorm.com
 post_footer_comment: Any comments or questions?  Please feel free to reach out!
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Thanks for visiting my site!  As you can see, this site
+  is still under construction.  It will soon be home to technical
+  write-ups, TryHackMe room walkthroughs, and instructional posts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mrghorm.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -36,9 +21,6 @@ theme: minima
 plugins:
   - jekyll-feed
 show_excerpts: true
-
-# Settings recommended by GitHub.com setup guide for GitHub Pages with Jekyll
-# From https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 
 domain: mrghorm.com
 url: https://mrghorm.com
