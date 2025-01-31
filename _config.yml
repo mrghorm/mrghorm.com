@@ -62,3 +62,6 @@ url: https://mrghorm.com
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+plugins:
+    - jekyll-admin
