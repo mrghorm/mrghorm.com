@@ -37,6 +37,9 @@ plugins:
   - jekyll-feed
 show_excerpts: true
 
+# GitHub Pages uses kramdown
+markdown: kramdown
+
 # Settings recommended by GitHub.com setup guide for GitHub Pages with Jekyll
 # From https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 
