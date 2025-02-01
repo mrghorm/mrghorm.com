@@ -2,10 +2,11 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "_drafts",
   "useMarkdownLinks": true,
-  "newLinkFormat": "shortest",
-  "attachmentFolderPath": "assets/attachments",
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "/assets/attachments",
   "userIgnoreFilters": [
     "_site/"
   ],
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
 }
