@@ -18,6 +18,14 @@
                 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                 {{ page.date | date: date_format }}
               </time>
+              <br>
+              {% comment %} Post updated date, if it exists {% endcomment %}
+              {%- if page.updated_date -%}
+              <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                Updated: {{ page.updated_date | date: date_format }}
+              </time>
+              {%- endif -%}
               {%- if page.author -%}
                 • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
               {%- endif -%}</p>
