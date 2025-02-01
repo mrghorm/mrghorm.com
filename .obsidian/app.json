@@ -1,0 +1,11 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_drafts",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "assets/attachments",
+  "userIgnoreFilters": [
+    "_site/"
+  ],
+  "showUnsupportedFiles": true
+}

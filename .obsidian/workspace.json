@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "2534b1addd365b75",
+    "type": "split",
+    "children": [
+      {
+        "id": "4691f63a795a48fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12ee35f9d51f61d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-01-26-Apple-Trust-with-Home-Lab-PKI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-26-Apple-Trust-with-Home-Lab-PKI"
+            }
+          },
+          {
+            "id": "684c47f7ab592882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_drafts/2025-02-01-Test-File-With-Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-01-Test-File-With-Obsidian"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3249e8ff882cd69",
+    "type": "split",
+    "children": [
+      {
+        "id": "33debf9c53f09c09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7bc585185f0657e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "149893d80e78b347",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b52a97f95288ca44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "664723c79ca3e7f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "91b70b5b5808b2e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b2251e0a8f62d4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_drafts/2025-02-01-Test-File-With-Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-02-01-Test-File-With-Obsidian"
+            }
+          },
+          {
+            "id": "c030573b672ab7a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_drafts/2025-02-01-Test-File-With-Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-02-01-Test-File-With-Obsidian"
+            }
+          },
+          {
+            "id": "d66c4e70d5701fe0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "469f0505b59f95a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_drafts/2025-02-01-Test-File-With-Obsidian.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-02-01-Test-File-With-Obsidian"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 500.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "684c47f7ab592882",
+  "lastOpenFiles": [
+    "_site/assets/attachments/{BCA53FF1-7B33-4C6F-98FB-9CE32E8240DF} 1.png",
+    "assets/attachments/{BCA53FF1-7B33-4C6F-98FB-9CE32E8240DF} 1.png",
+    "_site/assets/attachments/{BCA53FF1-7B33-4C6F-98FB-9CE32E8240DF}.png",
+    "assets/attachments/{BCA53FF1-7B33-4C6F-98FB-9CE32E8240DF}.png",
+    "4913",
+    "_site/2025/02/01/Test-File-With-Obsidian.html",
+    "_site/2025/02/01",
+    "_site/2025/02",
+    "_site/assets/attachments/{072370A6-D5A3-4E1B-9787-486A7C5EBEB2}.png",
+    "_site/assets/attachments",
+    "assets/attachments/{072370A6-D5A3-4E1B-9787-486A7C5EBEB2}.png",
+    "_drafts/2025-02-01-Test-File-With-Obsidian.md",
+    "_posts/2025-01-26-Apple-Trust-with-Home-Lab-PKI.md",
+    "assets/attachments",
+    "Untitled.md"
+  ]
+}
