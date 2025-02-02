@@ -21,6 +21,10 @@ plugins:
   - jekyll-feed
 show_excerpts: true
 
+# GitHub Pages uses kramdown
+markdown: kramdown
+
+# Domain & URL
 domain: mrghorm.com
 url: https://mrghorm.com
 

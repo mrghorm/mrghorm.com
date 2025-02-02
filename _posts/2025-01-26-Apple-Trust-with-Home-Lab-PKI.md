@@ -9,6 +9,11 @@ This is a high-level overview of Apple's requirements for certificates, and how 
 
 <!--more-->
 
+# Table of Contents
+
+* TOC
+{:toc}
+
 # Summary of Apple's rules for certificates
 
 1.  **Maximum expiry period is 398 days**. 
