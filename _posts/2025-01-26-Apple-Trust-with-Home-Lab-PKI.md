@@ -31,7 +31,7 @@ This is a high-level overview of Apple's requirements for certificates, and how 
 
 # How to Install Homelab Root Cert on Apple Devices
 
-## Install profile on iPhone or iPad
+### Install profile on iPhone or iPad
 
 1. **Obtain certs from your root CA** (and intermediate CA, if applicable).
    - PEM format works fine, [but apple supports other formats too](https://support.apple.com/guide/deployment/intro-to-certificate-management-depb5eff8914/web)
