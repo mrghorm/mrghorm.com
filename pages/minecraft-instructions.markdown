@@ -38,7 +38,7 @@ If the status of your WireGuard connection is "Inactive", then press the "Activa
 
 ![Find and click the "Activate" button](/assets/attachments/wireguard-instructions/WireGuard-Click-Activate-Example.png)
 
-## 4.  Connect to mc.ghorm.net in Factorio
+## 4.  Connect to mc.ghorm.net in Minecraft
 
 In Minecraft, navigate to **Multiplayer** then click **Add Server**
 
