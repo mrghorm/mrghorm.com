@@ -24,7 +24,7 @@ show_excerpts: true
 # Header Pages
 header_pages:
   - about.markdown
-  - posts
+  - posts.markdown
 
 # GitHub Pages uses kramdown
 markdown: kramdown
