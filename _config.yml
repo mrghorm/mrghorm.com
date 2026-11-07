@@ -21,6 +21,11 @@ plugins:
   - jekyll-feed
 show_excerpts: true
 
+# Header Pages
+header_pages:
+  - about.markdown
+  - posts
+
 # GitHub Pages uses kramdown
 markdown: kramdown
 
