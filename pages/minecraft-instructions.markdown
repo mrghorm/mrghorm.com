@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Factorio Instructions
+title: Minecraft Instructions
 permalink: /minecraft-instructions
 ---
 
