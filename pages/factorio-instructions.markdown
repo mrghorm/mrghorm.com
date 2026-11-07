@@ -22,30 +22,30 @@ Navigate to [wireguard.com/install](https://www.wireguard.com/install/) and down
 
 ## 2.  Download and install the WireGuard profile
 
-You will receive a WireGuard profile (for example, "YourName.conf").  If you have not received one, email Matt and a WireGuard profile will be provided.
+You will receive a WireGuard profile (for example, "YourName.conf").  If you have not received one, email Matt to receive your WireGuard profile.
 
 To install the profile, open WireGuard and click the "Add Tunnel" button.  Find the configuration file (ending in .conf) and open it.
 
-![Find the "Add Tunnel" button](/assets/attachments/factorio-instructions/WireGuard-Add-Tunnel.png)
+![Find the "Add Tunnel" button](/assets/attachments/wireguard-instructions/WireGuard-Add-Tunnel-Example.png)
 
 ## 3.  Ensure that WireGuard is connected
 
 Make sure you see "Status: Active" near the top of the WireGuard window:
 
-![Find the "Status: Active" text in WireGuard](../assets/attachments/factorio-instructions/WireGuard-Status-Active.png)
+![Find the "Status: Active" text in WireGuard](/assets/attachments/wireguard-instructions/WireGuard-Status-Active-Example.png)
 
 If the status of your WireGuard connection is "Inactive", then press the "Activate" button.
 
-![Find and click the "Activate" button](../assets/attachments/factorio-instructions/WireGuard-Click-Activate.png)
+![Find and click the "Activate" button](/assets/attachments/wireguard-instructions/WireGuard-Click-Activate-Example.png)
 
 ## 4.  Connect to factorio.ghorm.net in Factorio
 
 In Factorio, navigate to **Multiplayer > Connect to address**
 
-![Find the "connect to address" button in Factorio](../assets/attachments/factorio-instructions/factorio-menu-multiplayer-connect-to-address.png)
+![Find the "connect to address" button in Factorio](/assets/attachments/wireguard-instructions/factorio-menu-multiplayer-connect-to-address.png)
 
 Under "Direct connection", type **factorio.ghorm.net**
 
-![Factorio direct connection to factorio.ghorm.net](../assets/attachments/factorio-instructions/factorio-direct-connection-factorio.ghorm.net.png)
+![Factorio direct connection to factorio.ghorm.net](/assets/attachments/wireguard-instructions/factorio-direct-connection-factorio.ghorm.net.png)
 
 **Then click connect!**
